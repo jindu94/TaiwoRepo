@@ -1,0 +1,6 @@
+my discussion on git with Taiwo goes here;
+use colab
+make a repo
+connect to your remote repo
+push changes 
+and booom you are good to goS
